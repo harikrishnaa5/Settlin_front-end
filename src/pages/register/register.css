@@ -1,0 +1,16 @@
+.register{
+    background-color: rgba(111, 106, 106, 0.241);
+}
+
+input:focus{
+    outline: none;
+}
+
+.btn{
+    background: #f44444;
+    color: white;
+}
+.btn:hover{
+    background-color: #d33737;
+    color: white;
+}
